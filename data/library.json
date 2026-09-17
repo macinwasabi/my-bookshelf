@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-09-17T11:02:05.495Z",
+  "exportDate": "2026-09-17T13:34:31.014Z",
   "books": {
     "B00E0DMAJW": {
       "title": "最強伝説　黒沢　５",
@@ -7174,8 +7174,7 @@
         "B00AMVFT7Q",
         "B00BQ9UT9Q",
         "B00D3CGJRU",
-        "B00ECWZWLO",
-        "B09F98HD5X"
+        "B00ECWZWLO"
       ],
       "createdAt": "2026-09-17T00:30:58.659Z",
       "lastUpdated": "2026-09-17T00:36:11.209Z"
@@ -7323,7 +7322,8 @@
         "B07M88TZCW",
         "B07M8KF9RK",
         "B07N1KP85F",
-        "B07N1K16KD"
+        "B07N1K16KD",
+        "B09F98HD5X"
       ],
       "createdAt": "2026-09-17T00:36:33.418Z"
     },
@@ -7989,6 +7989,20 @@
         "B00E0DMAG0"
       ],
       "createdAt": "2026-09-17T00:39:23.908Z"
+    },
+    {
+      "id": "bookshelf_1789651939149",
+      "name": "Kindle-未分類",
+      "emoji": "📚",
+      "description": "",
+      "isPublic": false,
+      "books": [
+        "B06Y5YGWY2",
+        "B00RFKGDN6",
+        "B009KZ4FMA",
+        "B0BGXT17VR"
+      ],
+      "createdAt": "2026-09-17T13:32:19.149Z"
     }
   ],
   "settings": {
