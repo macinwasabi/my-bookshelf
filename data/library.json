@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-09-19T10:15:09.681Z",
+  "exportDate": "2026-09-19T10:29:22.429Z",
   "books": {
     "4106102773": {
       "title": "どこまでやったらクビになるか―サラリーマンのための労働法入門―（新潮新書）",
@@ -9,6 +9,17 @@
       "productImage": "https://images-na.ssl-images-amazon.com/images/P/4106102773.01.L.jpg",
       "source": "manual_add",
       "addedDate": 1789811026432,
+      "memo": "",
+      "rating": 0
+    },
+    "4274224473": {
+      "title": "マスタリングTCP/IP―入門編―(第6版)",
+      "authors": "井上 直也 (著), 村山 公保 (著), 竹下 隆史 (著), 荒井 透 (著), 苅田 幸雄 (著)",
+      "acquiredTime": 1789813281403,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4274224473.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789813281403,
       "memo": "",
       "rating": 0
     },
@@ -7381,6 +7392,94 @@
       "addedDate": 1789812747778,
       "memo": "",
       "rating": 0
+    },
+    "4862465277": {
+      "title": "HTML解体新書-仕様から紐解く本格入門",
+      "authors": "太田 良典 (著), 中村 直樹 (著)",
+      "acquiredTime": 1789813253852,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4862465277.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789813253852,
+      "memo": "",
+      "rating": 0
+    },
+    "4297144719": {
+      "title": "Software Design総集編【2018～2023】",
+      "authors": "Software Design編集部",
+      "acquiredTime": 1789813309106,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4297144719.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789813309106,
+      "memo": "",
+      "rating": 0
+    },
+    "4297141566": {
+      "title": "WEB+DB PRESS総集編［Vol.1～136］",
+      "authors": "WEB+DB PRESS編集部",
+      "acquiredTime": 1789813351859,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4297141566.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789813351859,
+      "memo": "",
+      "rating": 0
+    },
+    "B0BD2XNZYR": {
+      "title": "nterface(インターフェース) 2022年 11 月号",
+      "authors": "Interface編集部",
+      "acquiredTime": 1789813391387,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0BD2XNZYR.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789813391387,
+      "memo": "",
+      "rating": 0
+    },
+    "B0C4VWTCH4": {
+      "title": "Interface(インターフェース) 2023年 07 月号",
+      "authors": "Interface編集部",
+      "acquiredTime": 1789813413662,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0C4VWTCH4.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789813413662,
+      "memo": "",
+      "rating": 0
+    },
+    "B0CVBLJDDK": {
+      "title": "Interface(インターフェース) 2024年 04 月号",
+      "authors": "Interface編集部",
+      "acquiredTime": 1789813439467,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0CVBLJDDK.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789813439467,
+      "memo": "",
+      "rating": 0
+    },
+    "B0CNS3WPXC": {
+      "title": "日経Linux（リナックス） 2024年1月号",
+      "authors": "日経Linux",
+      "acquiredTime": 1789813466459,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0CNS3WPXC.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789813466459,
+      "memo": "",
+      "rating": 0
+    },
+    "B0C9QL5GDH": {
+      "title": "Interface(インターフェース) 2023年 09 月号",
+      "authors": "Interface編集部",
+      "acquiredTime": 1789813632779,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/B0C9QL5GDH.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789813632780,
+      "memo": "",
+      "rating": 0
     }
   },
   "bookshelves": [
@@ -8238,7 +8337,16 @@
         "4873119030",
         "4873116864",
         "4873113598",
-        "4798159298"
+        "4798159298",
+        "B0C9QL5GDH",
+        "B0CNS3WPXC",
+        "B0CVBLJDDK",
+        "B0C4VWTCH4",
+        "B0BD2XNZYR",
+        "4297141566",
+        "4297144719",
+        "4274224473",
+        "4862465277"
       ],
       "createdAt": "2026-09-17T00:39:10.824Z"
     },
@@ -8286,7 +8394,7 @@
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 671,
+    "totalBooks": 680,
     "notesCount": 0
   },
   "version": "2.0"
