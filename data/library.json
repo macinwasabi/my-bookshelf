@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-09-19T09:58:24.850Z",
+  "exportDate": "2026-09-19T10:15:09.681Z",
   "books": {
     "4106102773": {
       "title": "どこまでやったらクビになるか―サラリーマンのための労働法入門―（新潮新書）",
@@ -7260,6 +7260,127 @@
       "addedDate": 1789811587092,
       "memo": "",
       "rating": 0
+    },
+    "4297131587": {
+      "title": "令和05年【春期】【秋期】 応用情報技術者 合格教本 (情報処理技術者試験)",
+      "authors": "大滝 みや子 (著), 岡嶋 裕史 (著)",
+      "acquiredTime": 1789812292984,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4297131587.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812292984,
+      "memo": "",
+      "rating": 0
+    },
+    "4815615497": {
+      "title": "AWS運用入門　押さえておきたいAWSの基本と運用ノウハウ",
+      "authors": "佐竹 陽一 (著), 山﨑 翔平 (著), 小倉 大 (著), 峯 侑資 (著)",
+      "acquiredTime": 1789812326324,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4815615497.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812326324,
+      "memo": "",
+      "rating": 0
+    },
+    "477419087X": {
+      "title": "現場で役立つシステム設計の原則 ~変更を楽で安全にするオブジェクト指向の実践技法",
+      "authors": "増田 亨 (著)",
+      "acquiredTime": 1789812354874,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/477419087X.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812354874,
+      "memo": "",
+      "rating": 0
+    },
+    "4798184772": {
+      "title": "アーキテクトの教科書 価値を生むソフトウェアのアーキテクチャ構築",
+      "authors": "米久保 剛",
+      "acquiredTime": 1789812383997,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4798184772.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812383997,
+      "memo": "",
+      "rating": 0
+    },
+    "4908686165": {
+      "title": "プログラマーのためのCPU 入門 CPU は如何にしてソフトウェアを高速に実行するか",
+      "authors": "Takenobu Tani",
+      "acquiredTime": 1789812410875,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4908686165.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812410875,
+      "memo": "",
+      "rating": 0
+    },
+    "4297112132": {
+      "title": "[増補改訂第3版]Swift実践入門 ── 直感的な文法と安全性を兼ね備えた言語",
+      "authors": "石川 洋資 (著), 西山 勇世 (著)",
+      "acquiredTime": 1789812435480,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4297112132.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812435480,
+      "memo": "",
+      "rating": 0
+    },
+    "4814401558": {
+      "title": "ソフトウェアアーキテクチャの基礎 第2版 ―エンジニアリングに基づく体系的アプローチ",
+      "authors": "Mark Richards (著), Neal Ford (著), 島田 浩二（翻訳） (著)",
+      "acquiredTime": 1789812457947,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4814401558.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812457947,
+      "memo": "",
+      "rating": 0
+    },
+    "4873119030": {
+      "title": "Real World HTTP 第2版 ―歴史とコードに学ぶインターネットとウェブ技術",
+      "authors": "渋川よしき",
+      "acquiredTime": 1789812483494,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873119030.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812483494,
+      "memo": "",
+      "rating": 0
+    },
+    "4873116864": {
+      "title": "Web API: The Good Parts",
+      "authors": "水野貴明",
+      "acquiredTime": 1789812513287,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873116864.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812513288,
+      "memo": "",
+      "rating": 0
+    },
+    "4873113598": {
+      "title": "詳説 正規表現 第3版",
+      "authors": "ジェフリ-・E.F.フリ-ドル (著), ロングテ-ル (著), 長尾高弘 (著)",
+      "acquiredTime": 1789812535368,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4873113598.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812535368,
+      "memo": "",
+      "rating": 0
+    },
+    "4798159298": {
+      "title": "OAuth徹底入門 セキュアな認可システムを適用するための原則と実践",
+      "authors": "Justin Richer (著), Antonio Sanso (著), Authlete Inc. (監修), 須田 智之 (翻訳)",
+      "acquiredTime": 1789812747778,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4798159298.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1789812747778,
+      "memo": "",
+      "rating": 0
     }
   },
   "bookshelves": [
@@ -8107,7 +8228,17 @@
         "4814400594",
         "4873117585",
         "481440011X",
-        "4774173010"
+        "4774173010",
+        "4297131587",
+        "4815615497",
+        "477419087X",
+        "4798184772",
+        "4908686165",
+        "4297112132",
+        "4873119030",
+        "4873116864",
+        "4873113598",
+        "4798159298"
       ],
       "createdAt": "2026-09-17T00:39:10.824Z"
     },
@@ -8149,13 +8280,13 @@
     "showHighlights": true,
     "currentBookshelf": "all",
     "theme": "light",
-    "booksPerPage": "50",
+    "booksPerPage": "200",
     "showImagesInOverview": true,
     "coverSize": "medium"
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 660,
+    "totalBooks": 671,
     "notesCount": 0
   },
   "version": "2.0"
